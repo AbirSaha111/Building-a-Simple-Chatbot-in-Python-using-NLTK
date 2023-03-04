@@ -12,7 +12,7 @@ NLTK(Natural Language Toolkit)
 
 [Natural Language Processing with Python](https://www.nltk.org/book/) provides a practical introduction to programming for language processing.
 
-For platform-specific instructions, read here
+For platform-specific instructions, read https://www.nltk.org/install.html
 # Installation of NLTK
 pip install nltk
 # Installing required packages
